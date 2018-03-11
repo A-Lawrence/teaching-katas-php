@@ -9,7 +9,7 @@ engines:
       - php
   eslint:
     enabled: true
-    channel: "eslint-2"
+    channel: "eslint-4"
   fixme:
     enabled: true
   phpmd:
