@@ -2,7 +2,7 @@
     "name": "alawrence/teaching-katas-php",
     "description": "A range of different PHP Katas, solving using TDD.",
     "require": {
-        "phpspec/phpspec": "^3.2",
+        "phpspec/phpspec": "^4.0",
         "tightenco/collect": "^5.6"
     },
     "autoload": {
@@ -15,5 +15,8 @@
             "name": "Anthony Lawrence",
             "email": "artisan@anthonylawrence.me.uk"
         }
-    ]
+    ],
+    "require-dev": {
+        "leanphp/phpspec-code-coverage": "^4.0"
+    }
 }
