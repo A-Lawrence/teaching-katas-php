@@ -1,6 +1,6 @@
 <?php
 
-namespace spec;
+namespace spec\GreyCodes;
 
 use GreyCodes\GreyCodes;
 use PhpSpec\ObjectBehavior;
