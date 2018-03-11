@@ -1,0 +1,19 @@
+{
+    "name": "alawrence/teaching-katas-php",
+    "description": "A range of different PHP Katas, solving using TDD.",
+    "require": {
+        "phpspec/phpspec": "^3.2",
+        "tightenco/collect": "^5.6"
+    },
+    "autoload": {
+        "psr-0": {
+            "" : "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anthony Lawrence",
+            "email": "artisan@anthonylawrence.me.uk"
+        }
+    ]
+}
